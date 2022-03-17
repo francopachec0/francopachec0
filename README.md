@@ -7,11 +7,11 @@
 - 💻 Technologies that i'm training:
      - JavaScript
      - HTML5
-     - CSS
-     - React
+     - CSS3
+     - React JS
      - Redux
      - PostgreSQL
-     - Express
+     - Express JS
      - Sequelize
 - 📫 How to reach me :
      - Email: francopacheco.dev@gmail.com
