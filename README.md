@@ -20,7 +20,7 @@
   <h3 align="left">🌎Countries App</h3>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
-  ![countries](https://user-images.githubusercontent.com/88747070/159573666-d821d61a-a1a7-437b-8373-22b29ac0413e.png)
+  <img src="./countries.png" alt= "countries app">
 
 
   
