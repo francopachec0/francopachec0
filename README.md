@@ -22,7 +22,6 @@ Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize
   <img src="./2.png" alt= "home app">
   <img src="./3.png" alt= "details">
   <img src="./4.png" alt= "creation form">
-  <br>
   <h3 align="left">🌎Countries App</h3>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
