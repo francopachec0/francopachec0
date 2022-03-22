@@ -1,5 +1,5 @@
 
-<h2 align="center">👋 Hi, I’m Franco Pacheco, a passionate 😍Full-Stack Developer😍</h2>
+<h2 align="center">👋 Hi, I’m Franco Pacheco, a passionate 💻Full-Stack Developer💻</h2>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
 
 - 🚀 I'm studying in a BootCamp of Henry 👨‍🎓
@@ -20,7 +20,7 @@
   <h3 align="left">🌎Countries App</h3>
   <p align="left"><strong>Tecnologías:</strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
   <p align="left"> 
-    ![countries](https://user-images.githubusercontent.com/88747070/159572381-eb895d18-9c26-4bb7-9dd7-894a0aec46df.png)
+    <img src="https://drive.google.com/file/d/1ORS8NpXaN6RLEAvMmriln0Eqpmoniezs/view" />
   </p>
   
 <hr>
