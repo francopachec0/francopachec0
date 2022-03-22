@@ -1,9 +1,4 @@
-- 
 
-- 📫 How to reach me :
-     - Email: francopacheco.dev@gmail.com
-     - Phone: +54 3855374571
-     - LinkedIn: https://www.linkedin.com/in/francopachec0/
 <h2 align="center">👋 Hi, I’m Franco Pacheco, a passionate 😍Full-Stack Developer😍</h2>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
 
@@ -13,26 +8,19 @@
 - 🙌 I’m looking to collaborate on any project
 - ❤️ i enjoy learn everything!
      
-  
+- 📫 How to reach me :
+     - Email: francopacheco.dev@gmail.com
+     - Phone: +54 3855374571
+     - LinkedIn: https://www.linkedin.com/in/francopachec0/
+    
 <h2 align="left">🚀Habilidades</h2>
-     - JavaScript
-     - HTML5
-     - CSS3
-     - React JS
-     - Redux
-     - PostgreSQL
-     - Express JS
-     - Sequelize
+- JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
 
 <h2 align="left">📌Mis Proyectos</h2>
   <h3 align="left">🌎Countries App</h3>
   <p align="left"><strong>Tecnologías:</strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
   <p align="left"> 
-    <img src="./images/countriesApp/LandingPage.png" alt="Landing Page" min-width="10" min-height="10"/>
-    <img src="./images/countriesApp/HomePage.png" alt="Landing Page" min-width="10" min-height="10"/>
-    <img src="./images/countriesApp/CardCountry.png" alt="Landing Page" min-width="10" min-height="10"/>
-    <img src="./images/countriesApp/DetailCountry.png" alt="Landing Page" min-width="10" min-height="10"/>
-    <img src="./images/countriesApp/Form.png" alt="Landing Page" min-width="10" min-height="10"/>
+    ![countries](https://user-images.githubusercontent.com/88747070/159572381-eb895d18-9c26-4bb7-9dd7-894a0aec46df.png)
   </p>
   
 <hr>
