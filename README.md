@@ -13,15 +13,16 @@
      - Phone: +54 3855374571
      - LinkedIn: https://www.linkedin.com/in/francopachec0/
     
-<h2 align="left">🚀Habilidades</h2>
+<h2 align="left">🚀Skills</h2>
 - JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
 
-<h2 align="left">📌Mis Proyectos</h2>
+<h2 align="left">📌My Projects</h2>
   <h3 align="left">🌎Countries App</h3>
-  <p align="left"><strong>Tecnologías:</strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
-  <p align="left"> 
-    <img src="https://drive.google.com/file/d/1ORS8NpXaN6RLEAvMmriln0Eqpmoniezs/view" />
-  </p>
+  <p align="left"><strong>
+Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
+  ![countries](https://user-images.githubusercontent.com/88747070/159573666-d821d61a-a1a7-437b-8373-22b29ac0413e.png)
+
+
   
 <hr>
 <br />
