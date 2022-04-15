@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Franco Pacheco, a passionate 💻Full-Stack Developer💻</h2>
+<h2 align="center">👋 Hi, I’m Franco Pacheco, a passionate 💻Frontend Developer💻</h2>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
 
 - 🚀 I'm studying in a BootCamp of Henry 👨‍🎓
