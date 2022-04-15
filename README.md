@@ -10,6 +10,7 @@
   - Email: francopacheco.dev@gmail.com
   - Phone: +54 3855374571
   - LinkedIn: https://www.linkedin.com/in/francopachec0/
+  - Portfolio: https://portfolio-pacheco.vercel.app/
 
 <h2 align="left">🚀Skills</h2>
 - JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
@@ -22,6 +23,11 @@ Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize
   <img src="./2.png" alt= "home app">
   <img src="./3.png" alt= "details">
   <img src="./4.png" alt= "creation form">
+<h3 align="left">💼 Portfolio</h3>
+  <p align="left"><strong>
+Technologies: </strong>ReactJS, Tailwind CSS, Full Responsive App.</p>
+<p align="left">https://portfolio-pacheco.vercel.app/</p>
+<img src='./Captura.PNG' alt='portfolio home'>
   <h3 align="left">🌎Countries App</h3>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
