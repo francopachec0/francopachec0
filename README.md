@@ -16,7 +16,7 @@
 - JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
 
 <h2 align="left">📌My Projects</h2>
-<h3 align="left">🧡 Firebase App</h3>
+<h3 align="left">🧡 Firebase Login App</h3>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Firebase, Tailwind CSS, Full Responsive App.</p>
 <p align="left">https://react-firebase-nu.vercel.app</p>
