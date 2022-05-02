@@ -16,6 +16,11 @@
 - JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
 
 <h2 align="left">📌My Projects</h2>
+<h3 align="left">🧡 Firebase App</h3>
+  <p align="left"><strong>
+Technologies: </strong>ReactJS, Tailwind CSS, Full Responsive App.</p>
+<p align="left">https://react-firebase-nu.vercel.app</p>
+![Captura](https://user-images.githubusercontent.com/88747070/166290204-2ee37ad9-e52c-4ea1-a4da-2ee4ad7cbedb.PNG)
 <h3 align="left">🐢 Pokemon App</h3>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
