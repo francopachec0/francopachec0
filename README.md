@@ -1,7 +1,7 @@
-<h2 align="center">👋 Hi, I’m Franco Pacheco, a passionate 💻Frontend Developer💻</h2>
-<img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
+<h2 align="center">👋 Hi, I’m Franco Pacheco, 💻Frontend Developer💻</h2>
+<img src='https://mediaprotc.pe/wp-content/uploads/2021/06/javascript-banner.jpg' alt="Img profile" min-width="40" min-height="20"/>
 
-- 🚀 I'm studying in a BootCamp of Henry 👨‍🎓
+- 🚀 I'm graduated of a BootCamp SoyHenry 👨‍🎓
 - 👀 I’m interested in programming and tecnology!
 - 💌 I’m looking for a remote job!
 - 🙌 I’m looking to collaborate on any project
@@ -13,7 +13,7 @@
   - Portfolio: https://portfolio-pacheco.vercel.app/
 
 <h2 align="left">🚀Skills</h2>
-- JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
+- JavaScript, HTML5, CSS3, React JS, Redux, Node JS, PostgreSQL, Express JS, Sequelize.
 
 <h2 align="left">📌My Projects</h2>
 <h3 align="left">🍔 FP DELIVERY</h3>
