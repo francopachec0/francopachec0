@@ -42,13 +42,6 @@ Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize
 Technologies: </strong>ReactJS, Firebase, Tailwind CSS, Full Responsive App.</p>
 <p align="left">https://react-firebase-nu.vercel.app</p>
 <img src="./firebase.PNG" alt= "firebase">
-<h3 align="left">🐢 Pokemon App</h3>
-  <p align="left"><strong>
-Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
-  <img src="./1.png" alt= "landing page">
-  <img src="./2.png" alt= "home app">
-  <img src="./3.png" alt= "details">
-  <img src="./4.png" alt= "creation form">
 <h3 align="left">💼 Portfolio</h3>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Tailwind CSS, Full Responsive App.</p>
