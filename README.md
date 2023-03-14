@@ -37,13 +37,6 @@ Technologies: </strong>ReactJS, Firebase, Tailwind CSS, Full Responsive App.</p>
 <img src="./fp1.PNG" alt= "app">
 <img src="./fp2.PNG" alt= "app">
 <img src="./fp3.PNG" alt= "app">
-<h3 align="left">PACHECO Impresiones</h3>
-  <p align="left"><strong>
-Technologies: </strong>ReactJS, Styled Components, Full Responsive App.</p>
-<p align="left">https://pacheco-impresiones.vercel.app/</p>
-<img src="./pi1.PNG" alt= "app">
-<img src="./pi2.PNG" alt= "app">
-<img src="./pi3.PNG" alt= "app">
 <h3 align="left">🐢 Pokemon App</h3>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
