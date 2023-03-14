@@ -13,7 +13,7 @@
   - Portfolio: https://portfolio-pacheco.vercel.app/
 
 <h2 align="left">🚀Skills</h2>
-- JavaScript, HTML5, CSS3, React JS, Redux, Node JS, PostgreSQL, Express JS, Sequelize.
+- HTML5, CSS3, JavaScript, Node JS, Express JS, React JS, Redux.
 
 <h2 align="left">📌My Projects</h2>
 <h3 align="left">🎁 FP SHOP</h3>
