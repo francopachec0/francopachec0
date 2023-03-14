@@ -16,6 +16,20 @@
 - JavaScript, HTML5, CSS3, React JS, Redux, Node JS, PostgreSQL, Express JS, Sequelize.
 
 <h2 align="left">📌My Projects</h2>
+<h3 align="left">🎁 FP SHOP</h3>
+  <p align="left"><strong>
+Technologies: </strong>ReactJS, Redux, Tailwind CSS, Full Responsive App.</p>
+<p align="left">https://fp-shop.vercel.app/</p>
+<img src="./fpshop.PNG" alt= "app">
+<img src="./fpshop2.PNG" alt= "app">
+<img src="./fpshop3.PNG" alt= "app">
+<h3 align="left">PACHECO Impresiones</h3>
+  <p align="left"><strong>
+Technologies: </strong>ReactJS, Styled Components, Full Responsive App.</p>
+<p align="left">https://pacheco-impresiones.vercel.app/</p>
+<img src="./pi1.PNG" alt= "app">
+<img src="./pi2.PNG" alt= "app">
+<img src="./pi3.PNG" alt= "app">
 <h3 align="left">🍔 FP DELIVERY</h3>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Firebase, Tailwind CSS, Full Responsive App.</p>
