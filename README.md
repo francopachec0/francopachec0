@@ -8,7 +8,7 @@
 - ❤️ i enjoy learn everything!
 - 📫 How to reach me :
   - Email: francopacheco.dev@gmail.com
-  - Phone: +54 3855374571
+  - Phone: +54 3855170336
   - LinkedIn: https://www.linkedin.com/in/francopachec0/
   - Portfolio: https://portfolio-pacheco.vercel.app/
 
